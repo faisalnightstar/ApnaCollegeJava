@@ -1,59 +1,96 @@
-<h1 align="center">Hi 👋, I'm Abu Faisal</h1>
+<h1 align="center" style="color: #ff6347; font-family: 'Comic Sans MS', cursive, sans-serif;">
+  DSA with Abu Faisal: Debugging My Life, One Algorithm at a Time! 😎💻
+</h1>
 
-<h3>DSA with Abu Faisal: Code, Laugh, Repeat! 😂💻 </h3>
-  
-<p> Welcome to Abu Faisal’s Comedy Club of Data Structures and Algorithms—where coding meets comedy! I’m on a serious (but also fun) mission to master DSA with Apna College, and spoiler alert: no data structure is safe from my debugging jokes. </p>
-
-<h2>🎉 What’s This All About? </h2>
-
-<p>So, picture this: you're at a party. Arrays, stacks, and linked lists are chilling in one corner, chatting about how they store your data. Graphs are out there, connecting everyone (classic social butterflies). And then, BAM! Dynamic Programming shows up, trying to fix all your problems with past solutions. Yeah, that’s what you’ll find here! I’m Abu Faisal, diving headfirst into the deep, dark world of DSA, one joke at a time. In this repo, you’ll find my code—every success, every failure, every time I screamed at a recursive function.</p>
-
-<h2>What You’ll Find Here (Other Than Sarcasm):</h2>
-
-- Arrays: Life is better when indexed. 🧮
-- Linked Lists: Like arrays, but with commitment issues. 🖇️
-- Stacks & Queues: Have you ever been stuck in a queue at a concert? Yeah, I’m solving that. 🎤
-- Trees: Rooted in logic, branching out into complexity. 🌳
-- Graphs: Where relationships get complicated. 😬
-- Sorting Algorithms: Making sense of the chaos, one swap at a time. 🔄
-- Dynamic Programming: Solving problems faster than you realize you have them. 🧠
-
-<h2>🎯 The Challenge:</h2>
-
-<p>I’m solving problems like it’s a never-ending DSA stand-up tour. Codeforces, LeetCode, and HackerRank are my open mics, where I drop my solutions and see if the judges (aka test cases) laugh or… fail silently.</p>
-
-<h2>🤖 Tech I’m Using:</h2>
-
-- Languages: Java (I like it when things are fast) / C++ (depends on my mood 😜)
-- IDE: Whatever’s open and not crashing.
-- Git: So I can track all the moments I thought the code was working (spoiler: it wasn’t).
-
-<h2>😎 Why You Should Stick Around</h2>
-
-- You Like Code (obviously).
-- You like a good laugh (who doesn’t?).
-- You want to see someone tackle DSA and make jokes about recursion loops (because laughing at your problems makes them easier).
-
-<h2>🙌 Want to Contribute?</h2>
-<p>Feel free to clone, fork, star, or raise issues (not in life, just here). Help me crack the DSA code while cracking some jokes!</p>
-
-- 🌱 I’m currently learning **DSA from Alpha Plus Batch 2.O by Shradha Khapra**
-
-- 👨‍💻 All of my projects are available at [https://faisalnightstar.github.io/Portfolio/](https://faisalnightstar.github.io/Portfolio/)
-
-- 💬 Ask me about **DSA, React and TailwindCSS**
-
-- 📫 How to reach me **abufaisal.dev@gmail.com**
-
-- ⚡ Fun fact **I think I’m pretty funny, but sorting algorithms still have better "timing" than me—they always know how to "merge" things perfectly, while I’m still trying to figure out how to sort out my own life! 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abufaisal_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abufaisal_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faisalnightstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisalnightstar" height="30" width="40" /></a>
-<a href="https://instagram.com/abufaisal.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abufaisal.dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/faisalnightstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faisalnightstar" height="30" width="40" /></a>
+<p align="center" style="background-color: #f0f8ff; padding: 10px; border-radius: 8px;">
+  <em>Hey, I'm Abu Faisal, and welcome to my DSA repository! 🎉 I’m learning Data Structures and Algorithms (DSA) from Apna College, and—get this—I’m actually surviving! 😅 In this repo, I’m pushing all my code solutions. They say practice makes perfect, but trust me, practice also makes you question all your life choices when your code fails for the 100th time.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="center" style="background-color: #faf0e6; padding: 10px; border-radius: 8px;">
+  <strong>But hey, that’s where the fun begins! Let’s crack some code, and some jokes while we're at it. 😁</strong>
+</p>
+
+---
+
+<h2 style="color: #ffa500;">😆 Fun Fact About DSA:</h2>
+
+<p style="color: #20b2aa;">
+  Did you know DSA stands for <strong>Don’t Sleep Anymore</strong>? Because once you start learning it, good luck ever resting peacefully again. Recursive functions will haunt you in your dreams, whispering: <em>"Are you sure your base case is right?"</em> 😱
+</p>
+
+---
+
+<h2 style="color: #32cd32;">📂 What’s in This Repo (Other Than My Sanity Slowly Slipping Away):</h2>
+
+<ul style="list-style-type: square; color: #4682b4;">
+  <li><strong>Arrays:</strong> Ever tried organizing your life? Yeah, arrays can’t either. Everything is just stacked in memory hoping you can find it later.</li>
+  <li><strong>Linked Lists:</strong> Like your group chats—everyone’s connected, but nobody knows who’s next!</li>
+  <li><strong>Stacks & Queues:</strong> Where FIFO and LIFO aren’t some tech jargon, but the rules for surviving lunch lines.</li>
+  <li><strong>Trees:</strong> They have roots, branches, and always make you feel like a lumberjack cutting through complexity. 🪓</li>
+  <li><strong>Graphs:</strong> When connections get so tangled, you wish you’d just stuck to texting.</li>
+  <li><strong>Dynamic Programming:</strong> Solving problems efficiently because apparently, brute force solutions are so <em>yesterday</em>. 💅</li>
+</ul>
+
+---
+
+<h2 style="color: #dc143c;">🎯 My Approach to Learning DSA:</h2>
+
+<ol style="color: #8a2be2;">
+  <li><strong>Watch a tutorial:</strong> <em>“Seems easy enough.”</em></li>
+  <li><strong>Write some code:</strong> <em>“Okay, not too bad.”</em></li>
+  <li><strong>Run the code:</strong> <em>Error.</em></li>
+  <li><strong>Debug:</strong> <em>“What is happening?? Is this even English??”</em></li>
+  <li><strong>Go to bed:</strong> But not really, because now you’re awake at 2 AM wondering if you forgot a semicolon. 💀</li>
+</ol>
+
+---
+
+<h2 style="color: #ff69b4;">💪 Problem-Solving Journey:</h2>
+
+<ul style="color: #00ced1;">
+  <li><strong>LeetCode:</strong> Where I go to humble myself.</li>
+  <li><strong>Codeforces:</strong> Because who doesn’t love a good coding battle?</li>
+  <li><strong>HackerRank:</strong> Just trying to get ranked without getting hacked.</li>
+</ul>
+
+---
+
+<h2 style="color: #00fa9a;">⚙️ Tech Specs (A.K.A What I’m Using to Keep This Ship Afloat):</h2>
+
+<ul style="color: #ff4500;">
+  <li><strong>Languages:</strong> C++/Java/Python (depends on which one I feel like arguing with that day).</li>
+  <li><strong>IDE:</strong> If it opens without crashing, it’s the one.</li>
+  <li><strong>Git:</strong> Because I need to keep track of all the times my code <em>almost</em> worked.</li>
+</ul>
+
+---
+
+<h2 style="color: #1e90ff;">Why You Should Stick Around:</h2>
+
+<ul style="color: #adff2f;">
+  <li>You want to watch someone slowly unravel while learning DSA.</li>
+  <li>You love good coding puns.</li>
+  <li>You want to feel better about your own coding struggles. Misery loves company, right?</li>
+</ul>
+
+---
+
+<h2 style="color: #ffd700;">🤝 Want to Contribute?</h2>
+
+<p style="color: #ff6347;">
+  Think you can out-joke me while writing flawless code? Fork the repo and show me what you’ve got! Just remember, pull requests should come with either a solution or a punchline.
+</p>
+
+---
+
+<h2 style="color: #dda0dd;">📄 License</h2>
+
+<p style="background-color: #ffebcd; padding: 10px; border-radius: 8px;">
+  This repository is licensed under Apache, but if you can write better jokes, I’m open to negotiations. 😂
+</p>
+
+---
+
+<p align="center" style="background-color: #f5fffa; padding: 10px; border-radius: 8px;">
+  <strong>Thanks for stopping by! May your code compile and your errors be small enough to debug quickly.</strong>
+</p>
