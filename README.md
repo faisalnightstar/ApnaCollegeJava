@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abu Faisal</h1>
 
-<h3 align="center">DSA with Abu Faisal: Code, Laugh, Repeat! 😂💻 </h3>
+<h3>DSA with Abu Faisal: Code, Laugh, Repeat! 😂💻 </h3>
   
 <p> Welcome to Abu Faisal’s Comedy Club of Data Structures and Algorithms—where coding meets comedy! I’m on a serious (but also fun) mission to master DSA with Apna College, and spoiler alert: no data structure is safe from my debugging jokes. </p>
 
-<h2 align="center">🎉 What’s This All About? </h2>
+<h2>🎉 What’s This All About? </h2>
 
 <p>So, picture this: you're at a party. Arrays, stacks, and linked lists are chilling in one corner, chatting about how they store your data. Graphs are out there, connecting everyone (classic social butterflies). And then, BAM! Dynamic Programming shows up, trying to fix all your problems with past solutions. Yeah, that’s what you’ll find here! I’m Abu Faisal, diving headfirst into the deep, dark world of DSA, one joke at a time. In this repo, you’ll find my code—every success, every failure, every time I screamed at a recursive function.</p>
 
-<h2 align="center">What You’ll Find Here (Other Than Sarcasm):</h2>
+<h2>What You’ll Find Here (Other Than Sarcasm):</h2>
 
 - Arrays: Life is better when indexed. 🧮
 - Linked Lists: Like arrays, but with commitment issues. 🖇️
@@ -18,22 +18,23 @@
 - Sorting Algorithms: Making sense of the chaos, one swap at a time. 🔄
 - Dynamic Programming: Solving problems faster than you realize you have them. 🧠
 
-<h2 align="center">🎯 The Challenge:</h2>
+<h2>🎯 The Challenge:</h2>
 
 <p>I’m solving problems like it’s a never-ending DSA stand-up tour. Codeforces, LeetCode, and HackerRank are my open mics, where I drop my solutions and see if the judges (aka test cases) laugh or… fail silently.</p>
 
-<h2 align="center">🤖 Tech I’m Using:</h2>
+<h2>🤖 Tech I’m Using:</h2>
 
 - Languages: Java (I like it when things are fast) / C++ (depends on my mood 😜)
 - IDE: Whatever’s open and not crashing.
 - Git: So I can track all the moments I thought the code was working (spoiler: it wasn’t).
 
-<h2 align="center">😎 Why You Should Stick Around</h2>
+<h2>😎 Why You Should Stick Around</h2>
+
 - You Like Code (obviously).
 - You like a good laugh (who doesn’t?).
 - You want to see someone tackle DSA and make jokes about recursion loops (because laughing at your problems makes them easier).
 
-<h2 align="center">🙌 Want to Contribute?</h2>
+<h2>🙌 Want to Contribute?</h2>
 <p>Feel free to clone, fork, star, or raise issues (not in life, just here). Help me crack the DSA code while cracking some jokes!</p>
 
 - 🌱 I’m currently learning **DSA from Alpha Plus Batch 2.O by Shradha Khapra**
@@ -55,4 +56,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
